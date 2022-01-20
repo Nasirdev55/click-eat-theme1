@@ -1,0 +1,219 @@
+.topbar{display: block;}
+.topbar-res{display: none;line-height: 30px;padding: 1rem;}
+.navbar a{color:black;border-bottom: 3px solid white;padding:1rem 3rem}
+.navbar .active-link{color:#FFCC00;;border-bottom-color: #FFCC00;}
+.navbar-nav .nav-link {
+padding-right: 1rem;
+padding-left: 1rem;
+}
+.navbar-nav li {
+padding-right: 1rem;
+padding-left: 1rem;
+}
+.navbar .navbar-logo{display: none;}
+.center{margin-left: auto;margin-right: auto
+;display: block;}
+footer .f-img{width: 151px;
+height: 102px;}
+footer .f-img img{width: 100%;
+height: 100%;}
+footer .f-img2{width: 202px;
+height: 157px;position: absolute;bottom: 0px;right:0px;background-image: url('../img/images2/Icon/image.png');background-size: cover;}
+footer .f-img2 img{width: 100%;
+height: 100%;}
+.theme-color{color: #FFCC00;}
+.bg-theme{background-color: #FFCC00;}
+button{background-color: #FFCC00;border-radius: 8px;}
+footer .first-sec{padding: 2rem 0rem;}
+footer .sec-row{margin: 10px 151px;}
+.side-menu  .menu-item{
+    min-width: 170px;height: 130px;background: #F4C228 0% 0% no-repeat padding-box;border-bottom: 2px solid rgba(205, 163, 34, 1);}
+    .side-menu .menu-item .item{color:white;
+            text-align:center;position: absolute;top:24px;right:0px;left:0px;display: block;margin: auto;}
+.side-menu  .menu-item .item p{position: relative;left:0px;right:0px;font-size: 20px;}
+.side-menu .menu-item .item img{width: 52px;
+    height: 52px;}
+    .sidebar-menu .row .col-md-3 .card img{width: 177px;
+        height: 177px;margin-left: auto;margin-right: auto;}
+        .papular-menu .row .col-md-3 .card img{width: 177px;
+            height: 177px;margin-left: auto;margin-right: auto;}
+            .papular-menu .papular-text {
+                width: 358px;
+                height: auto;
+                text-align: center;
+            }
+            .gallery-sec .gallery-text {
+                width: 358px;
+                height: auto;
+                text-align: center;
+            }
+            .gallery-sec .gallery .g-img {
+                width: 334px;
+                height: 443px;margin-left: auto;
+    margin-right: auto;
+    display: block;
+            }
+            .page-title{background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)) ,url('../img/images/pictures/rod-long-kImU-9S9uh8-unsplash.jpg');
+                height: 200px;width:100%;background-size: cover;background-position: center center;
+                background-repeat: no-repeat;}
+                .page-title h1{padding-top:60px;font: normal normal bold 40px/55px rage;}
+                .page-title p{font: normal normal normal 14px/19px Open Sans;}
+                .img-section{width: 459px;
+                    height: 306px;position: absolute;top:64px;left:164px}
+                    .h-img{height: 535px;}
+                    .img-section2{width: 459px;
+                        height: 306px;position: absolute;top:97px;left:95px}
+                        .h-img{height: 535px;}
+                .h-m-img2{margin-top: 20px;}
+                .contact .contact-image{width: 320px;
+                    height: 320px;}
+                    .contact img{width: 100%;
+                    height: 100%;border-radius: 0px 0px 100px 0px;}
+                    .contact .f-div{text-align: center;
+                    font: normal normal bold 20px/27px Open Sans;margin-top: 20px;}
+                    .contact .f-div .contact-no{font: normal normal 600 14px/19px Open Sans;}
+                    .contact .f2-div{text-align: center;margin-top: -20px;}
+                    .contact  .fa-facebook{color:#4267B2;font-size: 20px;}
+                    .contact  .fa-instagram{color:#fb3958;font-size: 20px;}
+                    .contact .fa-twitter{color:#1DA1F2;font-size: 20px;}
+                    .contact-us .card{width: 249px;
+                    height: 103px;}
+.navbar{min-width: 200px;}
+
+.about .about-text{width: 517px;
+    height: auto;text-align: center;}
+    .about .about-image{width: 350px;
+    height: 410px;}
+    .about img{width: 100%;
+    height: 100%;border-radius: 8px;}
+    .about .f-div{text-align: center;
+    font: normal normal bold 20px/27px Open Sans;margin-top: 20px;}
+    .about .f-div-text {font: normal normal normal 12px/17px Open Sans;padding: 5px}
+    .about-video{height:600px;}
+    .about-video .black-layer{position:absolute;width:100%;height:600px;background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));z-index: 999;}
+    .about-video img{height:100%;width:100%;}
+    .about-video .btn-play{height:120px;width:120px;border-radius: 50%;
+    position: absolute;
+    top:0px;bottom: 0px;left: 0px;right:0px;margin: auto;display: block;z-index: 9999;
+    }
+    .about-video .btn-play i{font-size: 60px;
+    color: #FFFFFF;margin: 30px 28px 30px 44px;}
+    .about-section .img-1{width: 100%;
+    height: 213px;}
+    .about-section .img-2{width: 332px;
+    height: 213px;}
+    .about-section .img-1 img{width: 100%;
+    height: 100%;border-radius: 8px;}
+    .about-section .img-2 img{width: 100%;
+    height: 100%;border-radius: 8px;}
+    .about-section .dummy-text{font: normal normal normal 14px/19px Open Sans;
+    }
+        .our-chef .card{width:20rem}
+        .our-chef .card .card-title{font: normal normal bold 33px/45px Open Sans;}
+        .blog-sidebar .pp-5{padding: 3rem;}
+        
+            .menu-restaurant img{width: 167px;
+                height: 167px;border-radius: 50%;}
+                .menu-restaurant b{font: normal normal bold 14px/19px Open Sans;}
+                .menu-restaurant .menu-content{padding-top: 30px;padding-left:50px}
+                .menu-restaurant .menu-content .menu-text{font: normal normal normal 12px/21px Open Sans;
+                letter-spacing: 0px;width: 245px;
+                height: 38px;}
+                .menu-restaurant .menu-content p{margin-bottom: 0rem!important;}
+                .menu-restaurant .fa-heart{position:absolute;right:20px}
+                .menu-restaurant .col-md-6{margin-bottom: 2rem;}          
+                .menu-restaurant .menu-basket{background-color: #ffcc00;border-radius: 50%;position: absolute;bottom: 20px;right: 20px;}
+                .center{
+                    margin-left: auto;
+                    margin-right: auto;
+                    display: block;
+                }
+                .contact-us .card{width: 249px;
+                height: 200px; background-color: #F7F7F7; border: none;}
+                .contact-us .card i{font-size: 40px; color: #ffcc00;}
+                    .contact-us .card i{font-size: 40px; color: #ffcc00;}
+                    .bg-theme{background-color: #ffcc00;}
+                    .contact-us .card p{margin-bottom: 0rem;font-size: small;}
+                    .contact-form input[type=text]{height: 73px;}
+                    .contact-btn{width:232px;color: #FFFFFF;}
+                    .product-details .card img{height:100%;width:100%}
+.product-details .card .image-container{height:500px;width:500px;cursor: zoom-in;}
+.product-details .card .image-container:hover{cursor: zoom-out;}
+.product-details .details b{font: bold 32px / 43px "Segoe UI";}
+.product-details .details .counter{border-radius: 50%;width:25px;height:25px}
+.product-details .details .plus-icon,.minus-icon{font-size: 15px;padding: 6px;}
+.product-details .details .add-cart{height: 40px;}
+.product-details .details .d-flex #count{position: relative;bottom: 10px;}
+.product-details .details .d-flex .heart-icon{width:40px;height:40px}
+.product-details .details .d-flex .fa-heart{padding: 10px;}
+.product-details .details .topping img{width:80px;height:80px;border-radius: 10px;margin-top: 10px;margin-left: 5px;}
+.product-details .details .sauces img{width:80px;height:80px;border-radius: 10px;margin-top: 10px;margin-left: 5px;}
+.product-details .fa-heart{
+    position: absolute;
+    top: 18px;
+    right: 0px;
+    font-size: 23px;}
+    .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+        color: #495057;
+        background-color: none;
+        border: none;
+        text-decoration: underline;
+        font: bold;
+    }
+    .nav-tabs .nav-link:focus, .nav-tabs .nav-link:hover {
+        border:none;
+        cursor: pointer;
+    }
+    .menu-wishlist img{width: 150px;
+        height: 150px;border-radius: 50%;}
+        .menu-wishlist b{font: normal normal bold 14px/19px Open Sans;}
+        .menu-wishlist .menu-content-wishlist{padding-top: 25px;padding-left: 10px;}
+        .menu-wishlist .menu-content-wishlist p{margin-bottom: 0px!important;}
+        .menu-wishlist .fa-heart{position:absolute;right:20px}
+        .menu-restaurant2 .card{
+		
+            height: 230px;
+        }
+        .card-shadow{
+            box-shadow: 0px 3px 6px #00000029;
+        }
+        .menu-restaurant2 .card p{text-align: left;
+    font: normal normal normal 13px/18px Open Sans;
+    letter-spacing: 0px;
+    color: #262626;
+    opacity: 1;}
+    
+    .side-menu{display: flex;
+                    flex-direction: column;}
+    
+    .menu-restaurant3 .card .order-now{color: #FFCC00;opacity: 1;
+        font: normal normal bold 16px/22px Open Sans;
+    }
+    .order-now b{color: #FFCC00;
+    }
+        .menu-restaurant3 .card1{
+            
+            height: 129px;
+            width: 163px;
+        }
+        .menu-restaurant3 .card .order-burger{color: black;opacity: 1;
+            font: normal normal bold 16px/22px Open Sans;
+        }
+        .menu-wishlist .d-flex{flex-wrap: wrap;}
+        .menu-wishlist .menu-content-wishlist{margin-left: auto;margin-right: auto;}
+        .center{margin-left: auto;margin-right: auto;display: block;}
+        .shopping-cart{position: absolute;background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));z-index: 999;
+            width: 100%;height: calc(100%);display: none;overflow: auto;
+            }
+            .shopping-cart .h-cart{width: 284px;height: calc(100%);
+            position: absolute;right:0px;background-color: white;}
+            .shopping-cart .card .card{width: 80px;height: 80px;}
+            .shopping-cart .card .card img{width: 100%;height: 100%;}
+            .shopping-cart .counter{height: auto;
+            position: relative;top: -12px;padding: 0px;}
+            .shopping-cart .checkout-btn{position: absolute;bottom: 0px;width: 100%;padding:20px}
+            .counter{width: 80px;
+                height: 45px;user-select: none;border: 1px solid #ced4da;padding: 10px 0px;}
+                .cart .table .d-flex img{width:100px;height:100px}
+                .counter{width: 80px;
+                height: 45px;user-select: none;border: 1px solid #ced4da;padding: 10px 0px;}
